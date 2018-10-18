@@ -1,10 +1,10 @@
 /*
-*********************************************************************
-**Author:     Ramanujam Gond                                       **
-**Date:       Oct-19-2018                                          **
-**Git:        https://github.com/ramanujamgond                     **
-**Description: Basic C++ program to display the biodata of author. **
-*********************************************************************
+**********************************************************************
+**Author:      Ramanujam Gond                                       **
+**Date:        Oct-19-2018                                          **
+**Git:         https://github.com/ramanujamgond                     **
+**Description: Basic C++ program to display the biodata of author.  **
+**********************************************************************
 */
 
 #include <iostream>
