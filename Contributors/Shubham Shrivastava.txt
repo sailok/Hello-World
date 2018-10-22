@@ -1,0 +1,2 @@
+Hi
+I am Shubham Shrivastava. I am a student of JECRC University, Jaipur. I am pursuing Master of Computer Application. I am a full stack developer in Django and an enthusiastic competitive programmer too.
