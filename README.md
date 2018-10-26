@@ -26,7 +26,7 @@ You can take any one of the following courses/videos. One is just sufficient. If
 ## 2. Contribute Here! Follow these steps (Better try it yourself first!)
 
 ### 2.1 Fork this Repository :fork_and_knife:(commonly called as Repo)
-Fork this Repo by clicking on the Fork button on the top of this page. This will create a copy of this Repo in your Github account.
+Fork this Repository by clicking on the Fork button on the top of this page. This will create a copy of this Repo in your Github account.
 Don't forget to `Star`it!
 
 ### 2.2 Clone this Repo Locally
