@@ -1,0 +1,2 @@
+
+Hi everyone! My name is Melanie and I live in London, UK. I am very new to coding and have no computer science background, but I'm enjoying the challenge. At the moment I am slowly working my way through the freeCodeCamp curriculum. I can be found on Github at: [Estrella62](https://github.com/Estrella62). 
